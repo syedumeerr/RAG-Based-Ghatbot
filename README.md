@@ -13,3 +13,21 @@ Gemini PDF Chatbot allows users to interact with PDF files using an AI-powered c
    ```sh
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+2. **Install the required packages:**
+   ```sh
+   pip install -r requirements.txt
+3. **Install the required packages:**
+Create a .env file in the root directory and add your Google API key:
+   ```sh
+   GOOGLE_API_KEY=your_google_api_key_here
+
+## Running Application
+To start the application, run the following command:
+   ```sh
+   streamlit run brain.py
+
+
+   
+
+
+
