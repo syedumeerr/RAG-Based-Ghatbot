@@ -1,6 +1,6 @@
 # Gemini PDF Chatbot
 
-![Architecture](https://drive.google.com/file/d/1gy31fpmJGD0PsMnGiSanyA8QdgDJKIjr/view?usp=share_link)
+![Architecture](https://ibb.co/6Hs6Tmn)
 
 ## Overview
 
