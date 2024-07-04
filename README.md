@@ -1,6 +1,7 @@
 # Gemini PDF Chatbot
 
-![Uploading rage pipline.png…]()
+<img width="468" alt="rage pipline" src="https://github.com/syedumeerr/RAG-Based-Ghatbot/assets/73606141/0cc0f9c2-0a65-4e25-a302-7c711420cea7">
+
 
 ## Overview
 
