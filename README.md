@@ -1,6 +1,7 @@
 # Gemini PDF Chatbot
 
-![Architecture](https://ibb.co/6Hs6Tmn)
+![Architecture](![Uploading rage pipline.png…]()
+)
 
 ## Overview
 
